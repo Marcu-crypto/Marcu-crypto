@@ -2,8 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-pereira-/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcusp2501@gmail.com?subject=Subject&amp;body=Message)
 
-<img align="right" src="https://whybluehost.com/wp-content/uploads/2020/04/gif-1.gif" width="350px;"/>
-
+<img align="right" src="https://i.imgur.com/x1mhNZ8.gif" width="350px;"/>
 ----
 
 <h2> Olá 👋 bem-vindos ao meu perfil </h2>
